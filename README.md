@@ -1,3 +1,3 @@
 # onlineYoutubeVideoPlaylist
 
-Checkout this link for about project --> https://hajeera-khanum.github.io/onlineYoutubeVideoPlaylist/
+click the corresponding link to checkout this project --> https://hajeera-khanum.github.io/onlineYoutubeVideoPlaylist/
